@@ -99,5 +99,5 @@ def start():
         else:
             print("Bad command or file name")
 
-
+a = 2
 start()
